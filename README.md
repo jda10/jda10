@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jda10
+- 👋 Hi, I’m @dallenatchley
 - 👀 I’m currently an employed software engineer looking to transition into full-stack development.
 - 🌱 I’m currently learning React
 - 📫 Email : dalpal997@gmail.com || jatchley905@gmail.com
